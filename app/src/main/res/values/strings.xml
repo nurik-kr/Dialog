@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last name</string>
+    <string name="data_of_birdth">Data of birdth</string>
+    <string name="save">SAVE</string>
+    <string name="date">%1d/%2d/%3d</string>
+</resources>
